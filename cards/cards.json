@@ -18,7 +18,7 @@
     "subject": "A wooden thermometer with a snake-like red liquid indicator",
     "situation": "standing tilted in a puddle of red liquid under a glowing full moon, with the red liquid coming out of the snake's mouth at the base",
     "atmosphere": "surreal, mysterious, dark nocturnal ambient, deep blue and red contrast, Dixit card style",
-    "prompt": "A wooden thermometer with a snake-like red liquid indicator standing tilted in a puddle of red liquid under a glowing full moon, with the red liquid coming out of the snake's mouth at the base, surreal, mysterious, dark nocturnal ambient, deep blue and red contrast, Dixit card style"
+    "prompt": "A wooden thermometer with a snake-shaped red liquid indicator with no numbers, standing tilted in a puddle of red liquid under a glowing full moon, with the red liquid coming out of the base, surreal, mysterious, dark nocturnal ambient, deep blue and red contrast, Dixit card style"
   },
   {
     "id": 4,
@@ -29,10 +29,10 @@
   },
   {
     "id": 5,
-    "subject": "A sad pierrot mime character in a white costume with large black pom-poms and a black cap",
+    "subject": "A sad man in a white costume with big black buttons with black, short straight hair",
     "situation": "standing alone with head bowed inside a single bright yellow spotlight cone on a dark pitch-black stage",
     "atmosphere": "lonely, melancholic, dramatic, stark contrast between bright yellow light and deep darkness, theatrical, Dixit card style",
-    "prompt": "A sad pierrot mime character in a white costume with large black pom-poms and a black cap, standing alone with head bowed inside a single bright yellow spotlight cone on a dark pitch-black stage, lonely, melancholic, dramatic, stark contrast between bright yellow light and deep darkness, theatrical, Dixit card style"
+    "prompt": "A sad man in a white costume with big black buttons and black short straight hair with no hat, standing alone with his head bowed inside a single bright yellow spotlight cone on a dark pitch-black stage, lonely, melancholic, dramatic, stark contrast between bright light and deep darkness, theatrical, Dixit card style"
   },
   {
     "id": 6,
@@ -95,7 +95,7 @@
     "subject": "A barefoot child sitting inside a wooden cart pulled by a toy wind-up soldier with cymbals",
     "situation": "riding along a red carpet down a hallway lined with tall toy guards standing at attention with rifles",
     "atmosphere": "whimsical, royal, childish, dreamlike, vibrant red and green contrast, Dixit card style",
-    "prompt": "A barefoot child sitting inside a wooden cart pulled by a toy wind-up soldier with cymbals, riding along a red carpet down a hallway lined with tall toy guards standing at attention with rifles, whimsical, royal, childish, dreamlike, vibrant red and green contrast, Dixit card style"
+    "prompt": "A barefoot child sitting inside a wooden cart pulled by a toy wind-up soldier, riding along a red carpet, whimsical, royal, childish, dreamlike, vibrant red and green contrast, Dixit card style"
   },
   {
     "id": 15,
@@ -123,35 +123,35 @@
     "subject": "Two black ants wielding tiny swords",
     "situation": "dueling on top of a huge stack of shiny gold coins against a warm reddish background",
     "atmosphere": "conflict, greed, miniature epic duel, dramatic contrast between gold coins and deep red tones, Dixit card style",
-    "prompt": "Two black ants wielding tiny swords dueling on top of a huge stack of shiny gold coins against a warm reddish background, conflict, greed, miniature epic duel, dramatic contrast between gold coins and deep red tones, Dixit card style"
+    "prompt": "Two black ants wielding tiny swords dueling on top of a huge stack of shiny gold coins against a warm reddish background, conflict, greed, miniature epic duel, dramatic contrast between gold coins and deep red tones, Dixit card style drawing"
   },
   {
     "id": 19,
     "subject": "Two large blue snails facing each other in an arena",
     "situation": "touching their red-and-white striped horns together inside a sandy bullring or stadium under a deep blue sky",
     "atmosphere": "tense, slow, theatrical, confrontation, rich blue and warm yellow-orange contrast, Dixit card style",
-    "prompt": "Two large blue snails facing each other in an arena touching their red-and-white striped horns together inside a sandy bullring or stadium under a deep blue sky, tense, slow, theatrical, confrontation, rich blue and warm yellow-orange contrast, Dixit card style"
+    "prompt": "Two snails fighting each other in a colosseum and only one of them has a sword, tense, slow, theatrical, confrontation, Dixit card style"
   },
   {
     "id": 20,
     "subject": "A single white flower or bud",
     "situation": "standing alone in the center of a green grassy clearing surrounded by a ring of vibrant red poppy flowers",
     "atmosphere": "isolated, striking contrast, pure, botanical, vibrant red and green tones, Dixit card style",
-    "prompt": "A single white flower or bud standing alone in the center of a green grassy clearing surrounded by a ring of vibrant red poppy flowers, isolated, striking contrast, pure, botanical, vibrant red and green tones, Dixit card style"
+    "prompt": "A single small white flower standing alone in the center of a green grassy clearing surrounded by red flowers, isolated, striking contrast, pure, botanical, vibrant red and green tones, Dixit card style"
   },
   {
     "id": 21,
     "subject": "A close-up portrait of a dark-haired woman looking sideways",
     "situation": "wearing two small human figure earrings dangling from her ears, one dressed in white and the other in blue, against a soft teal background",
     "atmosphere": "mysterious, subtle, contemplative, surreal portrait, soft teal and dark blue tones, Dixit card style",
-    "prompt": "A close-up portrait of a dark-haired woman looking sideways wearing two small human figure earrings dangling from her ears, one dressed in white and the other in blue, against a soft teal background, mysterious, subtle, contemplative, surreal portrait, soft teal and dark blue tones, Dixit card style"
+    "prompt": "A close-up portrait of a dark-haired woman looking to the front wearing two human figure earrings, against a soft teal background, mysterious, subtle, contemplative, surreal portrait, soft teal and dark blue tones, Dixit card style"
   },
   {
     "id": 22,
     "subject": "A pair of pink ballet pointe shoes with long satin ribbons",
     "situation": "hanging above a dark wooden floor against a deep blue background with a spiderweb in the top left corner",
     "atmosphere": "abandoned, nostalgic, delicate, haunting, soft pink contrasted with dark blue and wood tones, Dixit card style",
-    "prompt": "A pair of pink ballet pointe shoes with long satin ribbons hanging above a dark wooden floor against a deep blue background with a spiderweb in the top left corner, abandoned, nostalgic, delicate, haunting, soft pink contrasted with dark blue and wood tones, Dixit card style"
+    "prompt": "A pair of pink ballet shoes hanging above a dark wooden floor gainst a deep blue background with a spiderweb in a to corner, abandoned, nostalgic, delicate, haunting, soft pink contrasted with dark blue and wood tones, Dixit drawing card style"
   },
   {
     "id": 23,
@@ -214,7 +214,7 @@
     "subject": "A person riding a white horse",
     "situation": "standing on cracked dry ground before a rocky cliff where a colorful rainbow arches from the ground, contrasted with a lush green grassy hill with trees above",
     "atmosphere": "surreal, contrasting environments, magical, bright colors, vibrant green and dry earth tones, Dixit card style",
-    "prompt": "A person riding a white horse standing on cracked dry ground before a rocky cliff where a colorful rainbow arches from the ground, contrasted with a lush green grassy hill with trees above, surreal, contrasting environments, magical, bright colors, vibrant green and dry earth tones, Dixit card style"
+    "prompt": "A surreal scene in Dixit card style featuring a man on a white horse positioned at the edge of a barren cliff with cracked, dry soil. Facing forward, they look across a gorge connected by a rainbow bridge leading to a picturesque, lush green landscape overflowing with trees and life. A powerful visual duality of two contrasting worlds—drought versus nature—harmoniously joined, vibrant colors, magical realism."
   },
   {
     "id": 32,
@@ -270,7 +270,7 @@
     "subject": "A small child standing and holding a sword up",
     "situation": "facing a large blue dragon with stripes and wings against a warm orange-yellow background",
     "atmosphere": "mythical, dramatic, storybook, warm orange and cool blue contrast, Dixit card style",
-    "prompt": "A small child standing and holding a sword up facing a large blue dragon with stripes and wings against a warm orange-yellow background, mythical, dramatic, storybook, warm orange and cool blue contrast, Dixit card style"
+    "prompt": "A view from the side of a small child standing and holding a sword up facing a large blue dragon with wings against a warm orange-yellow background, mythical, dramatic, storybook, warm orange and cool blue contrast, Dixit card style"
   },
   {
     "id": 40,
@@ -298,7 +298,7 @@
     "subject": "A realistic red anatomical heart burning in flames",
     "situation": "placed on a white base and covered entirely by a clear glass dome against a dark red background",
     "atmosphere": "surreal, symbolic, intense, warm yellow and red tones, Dixit card style",
-    "prompt": "A realistic red anatomical heart burning in flames placed on a white base and covered entirely by a clear glass dome against a dark red background, surreal, symbolic, intense, warm yellow and red tones, Dixit card style"
+    "prompt": "A red simplified anatomical heart burning in flames placed on a white base and covered entirely by a clear glass dome against a dark red background, surreal, symbolic, intense, warm yellow and red tones, Dixit drawing card style"
   },
   {
     "id": 44,
